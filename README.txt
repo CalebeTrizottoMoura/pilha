@@ -1,19 +1,22 @@
 README - MANIPULACAO DE PILHAS
 
 DESCRICAO
-Este codigo implementa uma estrutura de dados do tipo Pilha em C, permitindo 
-a manipulacao de palavras. O programa fornece um menu interativo para adicionar, 
-desempilhar, limpar e exibir o conteudo da pilha.
+Este codigo implementa uma estrutura de dados do tipo Pilha 
+em C, permitindo a manipulacao de palavras. O programa fornece 
+um menu interativo para adicionar, desempilhar, limpar e exibir 
+o conteudo da pilha.
 
 ARQUIVOS INCLUSOS
-- main.c: Arquivo principal contendo a implementacao das funcoes e a estrutura da pilha.
+- main.c: Arquivo principal contendo a implementacao das funcoes 
+e a estrutura da pilha.
 
 REQUISITOS
 - Compilador C (ex.: GCC);
 - Sistema Operacional Windows ou Unix-like.
 
 CARACTERISTICAS PRINCIPAIS
-- Estrutura de dados do tipo Pilha com operacoes padrao (push, pop, limpar, exibir);
+- Estrutura de dados do tipo Pilha com operacoes padrao (push, 
+pop, limpar, exibir);
 - Armazenamento e manipulacao de palavras na pilha;
 - Menu interativo para realizacao das operacoes.
 
